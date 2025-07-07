@@ -1,6 +1,6 @@
 USE [University]
 GO
---Write SQL Statement to INSERT random grades for all students for every assignment.
+--6.Write SQL Statement to INSERT random grades for all students for every assignment.
 INSERT INTO Grades (GradeID, AssignmentID, StudentID, Grade)
 VALUES
 (1, 1, 1, 71),
